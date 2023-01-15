@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Max G. Levy, wired.com",
+            "title": "Neuroscientists unravel the mystery of why you can’t tickle yourself",
+            "description": "New study shows how tickling, playfulness can address key questions about the brain.",
+            "url": "https://www.wired.com/story/neuroscientists-unravel-the-mystery-of-why-you-cant-tickle-yourself/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/feather-foot-760x380.jpg",
+            "publishedAt": "2022-10-08T11:32:22+00:00",
+            "content": "32 with 29 posters participating\r\nInside a Berlin neuroscience lab one day last year, Subject 1 sat on a chair with their arms up and their bare toes pointed down. Hiding behind them, with full acces… [+5356 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": null,
+            "title": "Liberals to temporarily lift cap on off-campus work hours for international students | CBC News",
+            "description": "The Liberal government is lifting the limit on the number of hours international students are allowed to work off-campus each week in an effort to address Canada's labour shortage.",
+            "url": "https://www.cbc.ca/news/politics/international-student-lift-work-limit-1.6609550",
+            "urlToImage": "https://i.cbc.ca/1.6561222.1661374766!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/immigration-backlog-20220824.JPG",
+            "publishedAt": "2022-10-07T19:32:22+00:00",
+            "content": "The Liberal government is lifting the limit on the number of hours international students are allowed to work off-campus each week in an effort to address Canada's labour shortage.\r\nThe pilot project… [+3431 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Powell's inflation miscalculation raises stakes on rate shift",
+            "description": "The Federal Reserve chair needs to convince markets he means business when he addresses the landmark conference of economists on Friday.",
+            "url": "https://www.politico.com/news/2022/08/25/powell-wyoming-fed-inflation-00053508",
+            "urlToImage": "https://static.politico.com/9a/76/c795f4214563a29736733fc0e086/federal-reserve-powell-01404.jpg",
+            "publishedAt": "2022-08-25T08:30:00+00:00",
+            "content": "Now, as he returns to Jackson Hole in Wyoming, Powell needs to convince markets he means business when he addresses the landmark conference of economists on Friday. If he cant, it could undermine the… [+4797 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Molly Hayes",
+            "title": "OPP officers provide testimony at inquest into 2015 triple murders",
+            "description": "Four OPP officers addressed difficulties they had while discovering three deaths in 2015 connected by intimate partner violence",
+            "url": "https://www.theglobeandmail.com/canada/article-opp-provide-testimony-at-inquest-into-2015-triple-murders/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/B_0AHIFyolFcOl24Dt2Q82GJ_f4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/BPRCBGA52VCDHGHL2GMDLH2QSA.JPG",
+            "publishedAt": "2022-06-16T01:18:17Z",
+            "content": "A real estate billboard of slain Anastasia Kuzyk along Highway 60 in Wilno, Ont., in 2015.Dave Chan/The Globe and Mail\r\nAs soon as she heard Anastasia Kuzyks address read out over her police radio on… [+4544 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Wency Leung",
+            "title": "‘COVID hasn’t gone away’: Five things health experts say we must do to end the pandemic",
+            "description": "Boosting health care capacity, encouraging third doses and better understanding long COVID are among the issues health experts say need to be addressed",
+            "url": "https://www.theglobeandmail.com/canada/article-covid-19-pandemic-not-over/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/nYUYq7AN4xv1_6tgavE1CKi6OvQ=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OSOQKLUMCZEDDPFOKUWLUFOLFY.png",
+            "publishedAt": "2022-06-15T17:00:00Z",
+            "content": "Restaurants are open. Festivals are back. Masks, for the most part, are optional. And starting Monday, June 20, proof of vaccination will no longer be required of Canadian air and train passengers.\r\n… [+7848 chars]"
+        },
+        {
+            "source": {
+                "id": "liberation",
+                "name": "Libération"
+            },
+            "author": "Chez Pol",
+            "title": "Ces députés qui ne veulent pas plus d’argent",
+            "description": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+            "url": "http://www.liberation.fr/politiques/2021/02/02/ces-deputes-qui-ne-veulent-pas-plus-d-argent_1819029",
+            "urlToImage": "https://medias.liberation.fr/photo/1375467-afp_1r32kgjpg.jpg?modified_at=1612264960&amp;picto=fb&amp;ratio_x=191&amp;ratio_y=100&amp;width=1080",
+            "publishedAt": "2021-02-02T12:22:45Z",
+            "content": "Search\r\nDirect\r\nUser\r\n100\r\nZoom\r\nQuiz\r\n?\r\nLibération Diamond\r\nclock\r\nxml\r\nnetvibes\r\nlive\r\nanciens-numeros\r\ndata\r\ndesintox\r\ndiapo\r\nedito\r\nelection-2017\r\nelection\r\nessentiel\r\ngenerique\r\nidee\r\njo\r\nnext\r… [+476 chars]"
+        }
+    ]
+}

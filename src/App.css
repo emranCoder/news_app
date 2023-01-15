@@ -1,0 +1,8 @@
+.sit-name{
+    z-index: 1;
+    left: 90%;
+}
+.active-news
+{
+    color: var(--bs-navbar-active-color);
+}
